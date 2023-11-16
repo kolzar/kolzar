@@ -1,9 +1,8 @@
 # Ugo Mezzogori
-Software Developer | Technology Enthusiast
+Software Developer | CRIF S.p.a.
 📧 ugo.mezzogori@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/ugo-mezzogori-a2545a19/) | 🌐 [Personal Website](https://www.ugomezzogori.com/)
-
 ```
-### Hi there 👋
+# Hi there 👋
 - 🔭 I’m currently working on .Net Projects;
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,7 +14,3 @@ Software Developer | Technology Enthusiast
 - hobbies:
 - Languages: Italian (Native), English (B2), Greek (A1)
 ```
-# Contact
-- 📧 ugo.mezzogori@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ugo-mezzogori/)
-- 🌐 [Personal Website](https://www.ugomezzogori.com/)  
